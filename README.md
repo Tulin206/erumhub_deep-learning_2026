@@ -21,11 +21,11 @@ Follow the numbers from **01 → 08**. Each lesson builds on the previous one!
 | 1️⃣ | 01_Building_Blocks_Binary_Classification | Basic Concepts | Learn what a neuron is and how it works (simple flower classification) |
 | 2️⃣ | 02_Activation_Functions_Theory | Activation Functions | Understand WHY we need activation functions and how they work |
 | 3️⃣ | 03_Simple_NN_Iris_Classification | Multi-Class with NumPy | Build a network from scratch using only NumPy (Iris flowers - 3 types) |
-| 4️⃣ | 04_Networks_as_Code_Penguin_Classification | Real Project with Keras | Use TensorFlow/Keras to classify real penguin data (3 species) |
+| 4️⃣ | 04_Networks_as_Code_Penguin_Classification & Wine_Classification | Real Project with Keras | Use TensorFlow/Keras to classify real penguin data (3 species) and wine data |
 | 5️⃣ | 05_Feedforward_Squirrel_Classification | More Practice | Classify squirrels using a feedforward network (2 types) |
 | 6️⃣ | 06_Building_NN_From_Scratch_Advanced | Advanced From Scratch | Write complete network code without using Keras |
 | 7️⃣ | 07_Monitor_Training_Weather_Regression | Training Monitoring | Learn regression and watch how the network learns over time |
-| 8️⃣ | 08_Deep_Learning_With_PyTorch | Deep Learning | Learn PyTorch and build deeper networks (MNIST digit recognition) |
+| 8️⃣ | 08_Deep_Learning_With_PyTorch_MNIST | Deep Learning | Learn PyTorch and build deeper networks (MNIST digit recognition) |
 
 ## What Is the Goal?
 
@@ -39,21 +39,24 @@ The goal is to **understand how neural networks work** by:
 
 ```
 erumhub_deep-learning_2026/
-├── code/                                          # All exercises are here
-│   ├── 01_Building_Blocks_Binary_Classification.ipynb
-│   ├── 02_Activation_Functions_Theory.ipynb
-│   ├── 03_Simple_NN_Iris_Classification.ipynb
-│   ├── 03_Simple_NN_Iris_Classification_solution.ipynb
-│   ├── 04_Networks_as_Code_Penguin_Classification.ipynb
-│   ├── 04_Networks_as_Code_Penguin_Exercise.ipynb
-│   ├── 05_Feedforward_Squirrel_Classification.ipynb
-│   ├── 05_Feedforward_Squirrel_Solution.ipynb
-│   ├── 06_Building_NN_From_Scratch_Advanced.ipynb
-│   ├── 07_Monitor_Training_Weather_Regression.ipynb
-│   ├── 08_Deep_Learning_With_PyTorch_MNIST.ipynb
-│   └── 08_Deep_Learning_With_PyTorch_Exercise.ipynb
-├── README.md
-└── LICENSE
+├── README.md                                      # This file
+├── LICENSE                                        # License info
+└── code/                                          # All exercises are here
+    ├── 01_Building_Blocks_Binary_Classification_exercise.ipynb
+    ├── 01_Building_Blocks_Binary_Classification_solution.ipynb
+    ├── 02_Activation_Functions_Theory.ipynb
+    ├── 03_Simple_NN_Iris_Classification_exercise.ipynb
+    ├── 03_Simple_NN_Iris_Classification_solution.ipynb
+    ├── 04_Networks_as_Code_Penguin_Classification_solution.ipynb
+    ├── 04_Networks_as_Code_Wine_Classification_solution.ipynb
+    ├── 05_Feedforward_Squirrel_Classification_exercise.ipynb
+    ├── 05_Feedforward_Squirrel_Classification_solution.ipynb
+    ├── 06_Building_NN_From_Scratch_Advanced_Exercise.ipynb
+    ├── 06_Building_NN_From_Scratch_Advanced_solution.ipynb
+    ├── 07_Monitor_Training_Weather_Regression_exercise.ipynb
+    ├── 07_Monitor_Training_Weather_Regression_solution.ipynb
+    ├── 08_Deep_Learning_With_PyTorch_MNIST_exercise.ipynb
+    └── 08_Deep_Learning_With_PyTorch_MNIST_solution.ipynb
 ```
 
 Each `.ipynb` file is a **notebook** - a file with code and explanations.
@@ -67,7 +70,7 @@ Google Colab lets you run code **for free** without installing anything.
 **Steps:**
 
 1. Go to this repository on GitHub: [erumhub_deep-learning_2026](https://github.com/Tulin206/erumhub_deep-learning_2026)
-2. Open any `.ipynb` file (like `01-networks-as-code.ipynb`)
+2. Open any `.ipynb` file (like `01_Building_Blocks_Binary_Classification_exercise.ipynb`)
 3. Click the **"Open in Colab"** button at the top of the notebook (it says: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)])
 4. The notebook opens in Google Colab automatically
 5. Click the "Play" button (▶️) to run each code block
@@ -85,11 +88,11 @@ Google Colab lets you run code **for free** without installing anything.
 
 **Follow this order (it's important!):**
 
-1. **Start here:** `01_Building_Blocks_Binary_Classification.ipynb` - Learn the basic idea
+1. **Start here:** `01_Building_Blocks_Binary_Classification_exercise.ipynb` - Learn the basic idea
 2. **Then:** `02_Activation_Functions_Theory.ipynb` - Understand activation functions (IMPORTANT!)
-3. **Code from scratch:** `03_Simple_NN_Iris_Classification.ipynb` - Build with NumPy only
-4. **Use a library:** `04_Networks_as_Code_Penguin_Classification.ipynb` - Use Keras (easier)
-5. **Practice more:** `05_Feedforward_Squirrel_Classification.ipynb` - Another real example
+3. **Code from scratch:** `03_Simple_NN_Iris_Classification_exercise.ipynb` - Build with NumPy only
+4. **Use a library:** `04_Networks_as_Code_Penguin_Classification_solution.ipynb` - Use Keras (easier)
+5. **Practice more:** `05_Feedforward_Squirrel_Classification_exercise.ipynb` - Another real example
 6. **Go deeper:** Try the others when you understand these!
 
 **Tip:** Each notebook has a "Open in Colab" button at the top. Click it to run the code instantly! ⚡
