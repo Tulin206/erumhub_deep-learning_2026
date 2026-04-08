@@ -14,7 +14,7 @@ In this repository, you will learn:
 
 ## What Exercises Are Here? (Learn in Order 👇)
 
-Follow the numbers from **01 → 08**. Each lesson builds on the previous one!
+Follow the numbers from **01 → 10**. Each lesson builds on the previous one!
 
 | # | Exercise | Topic | What You Learn |
 |---|----------|-------|----------------|
@@ -26,6 +26,8 @@ Follow the numbers from **01 → 08**. Each lesson builds on the previous one!
 | 6️⃣ | 06_Building_NN_From_Scratch_Advanced | Advanced From Scratch | Write complete network code without using Keras |
 | 7️⃣ | 07_Monitor_Training_Weather_Regression | Training Monitoring | Learn regression and watch how the network learns over time |
 | 8️⃣ | 08_Deep_Learning_With_PyTorch_MNIST | Deep Learning | Learn PyTorch and build deeper networks (MNIST digit recognition) |
+| 9️⃣ | 09_AlexNet_CIFAR10 | CNN Architectures | Build an AlexNet-style convolutional neural network to classify CIFAR10 images |
+| 🔟 | 10_VGG_CIFAR10 | Advanced CNNs | Implement a VGG-like network with multiple convolutional blocks for image classification |
 
 ## What Is the Goal?
 
@@ -56,7 +58,10 @@ erumhub_deep-learning_2026/
     ├── 07_Monitor_Training_Weather_Regression_exercise.ipynb
     ├── 07_Monitor_Training_Weather_Regression_solution.ipynb
     ├── 08_Deep_Learning_With_PyTorch_MNIST_exercise.ipynb
-    └── 08_Deep_Learning_With_PyTorch_MNIST_solution.ipynb
+    ├── 08_Deep_Learning_With_PyTorch_MNIST_solution.ipynb
+    ├── 09_alexnet_cifar10.ipynb
+    ├── 10_vgg_cifar10_exercise.ipynb
+    └── 10_vgg_cifar10.ipynb
 ```
 
 Each `.ipynb` file is a **notebook** - a file with code and explanations.
