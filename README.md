@@ -14,6 +14,35 @@ In this repository, you will learn:
 
 ---
 
+## 📋 Participant Feedback & Learning Tracking
+
+We would love to hear from you! **After completing this course**, please share your experience and feedback:
+
+### **How to Participate:**
+
+1. **Before or During the Course:** Fill in your details in this [**Shared Feedback Table**](https://notes.desy.de/L43d4d93TOWYpuDy-EcBkA?both)
+
+2. **Information to Share:**
+   - **Your Name:** Your first and last name
+   - **Your Profession:** What do you do? (e.g., Software Engineer, Data Scientist, Student, etc.)
+   - **ML Experience Level:** Your experience with machine learning (e.g., Beginner, Intermediate, Advanced, None)
+
+3. **At the End of the Course:** Return to the same table and add:
+   - **Your Feedback:** What did you learn? What was helpful? What could be improved?
+   - **Exercises Completed:** Which exercises did you complete?
+   - **Any Additional Comments:** Questions, suggestions, or ideas for improvement
+
+### **Why Your Feedback Matters:**
+
+- 📊 **Help us improve:** Your feedback helps us create better learning materials
+- 🎯 **Track your progress:** See how far you've come from start to finish
+- 🤝 **Build community:** Connect with other learners on the same journey
+- 💡 **Make it better:** Your suggestions shape future versions of these exercises
+
+**👉 [Open the Feedback Table Here](https://notes.desy.de/L43d4d93TOWYpuDy-EcBkA?both)**
+
+---
+
 ## 🚀 Core Learning Path: Master Deep Learning & FCNNs (Recommended)
 
 ### **Follow This Order: 01 → 02 → 03 → 05 → 07 → 08**
@@ -308,6 +337,18 @@ If you have questions:
 - Experiment and play with the code!
 
 The best way to learn is by doing! 🚀
+
+---
+
+## 📚 Additional Resources for Learning at Home
+
+Want to dive deeper into deep learning? Check out these excellent resources:
+
+### **Recommended Learning Materials:**
+
+- **[Sebastian Raschka's Deep Learning Course](https://sebastianraschka.com/blog/2021/dl-course.html)** - A comprehensive deep learning tutorial with step-by-step explanations and code examples. Perfect for learning at your own pace! 🎓
+
+These resources complement the exercises in this repository and will help you build a stronger understanding of deep learning concepts.
 
 ---
 
