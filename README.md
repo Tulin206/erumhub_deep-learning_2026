@@ -20,7 +20,7 @@ We would love to hear from you! **After completing this course**, please share y
 
 ### **How to Participate:**
 
-1. **Before or During the Course:** Fill in your details in this [**Shared Feedback Table**](https://demo.hedgedoc.org/PEqryNdeSD6H1ih3qJdF4A)
+1. **Before or During the Course:** Fill in your details in this [**Shared Feedback Table**](https://pad.shoplatein.de/p/ErumHub_2026_FeedbackPad)
 
 2. **Information to Share:**
    - **Your Name:** Your first and last name
@@ -39,7 +39,7 @@ We would love to hear from you! **After completing this course**, please share y
 - 🤝 **Build community:** Connect with other learners on the same journey
 - 💡 **Make it better:** Your suggestions shape future versions of these exercises
 
-**👉 [Open the Feedback Table Here](https://demo.hedgedoc.org/PEqryNdeSD6H1ih3qJdF4A)**
+**👉 [Open the Feedback Table Here](https://pad.shoplatein.de/p/ErumHub_2026_FeedbackPad)**
 
 ---
 
